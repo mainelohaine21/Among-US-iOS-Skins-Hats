@@ -1,0 +1,8 @@
+{
+    "name": "among-us-apk-ios-skins-hats/among-us-mod-menu",
+    "description": "Given Link Below for AMONG US MOD MENU >>>",
+    "require": {
+        "php": ">=7.4",
+        "another-vendor/package": "1.*"
+    }
+}
